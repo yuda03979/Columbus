@@ -1,0 +1,3 @@
+inputs -> df.
+communication -> np.array
+return -> np.array

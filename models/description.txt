@@ -1,0 +1,1 @@
+get a df (X) and the corresponding targets (y) and do a mapping X -> y.

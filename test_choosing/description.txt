@@ -1,0 +1,1 @@
+analize spaces in the data (in the mapping)
